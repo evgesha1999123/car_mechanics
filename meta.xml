@@ -1,0 +1,4 @@
+<meta>
+     <info author="evgesha" type="deathmatch" name="magic_car" description="hello there" />
+     <script src="magic.lua" type="server"/>
+</meta>
